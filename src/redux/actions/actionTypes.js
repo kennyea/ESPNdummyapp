@@ -1,0 +1,3 @@
+export const ADD_PLAYER = "ADD_PLAYER";
+export const ADD_TOTAL_PLAYER = "ADD_TOTAL_PLAYER";
+export const DELETE_PLAYER = "DELETE_PLAYER";
